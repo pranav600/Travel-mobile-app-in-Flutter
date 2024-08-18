@@ -11,6 +11,6 @@ Before you begin, ensure you have met the following requirements:
 ## Getting Started
 - Step 1️⃣: Create a New Android Project.
 - Step 2️⃣: Copy the 'lib' & 'assets' Folder and paste it into your new project.
-- Step 3️⃣: Copy the 'pubspec.yaml' & replace to update the Dependencies.
+- Step 3️⃣: Copy the 'pubspec.yaml' file & replace to update the Dependencies.
 - Step 4️⃣: Before run the project, go to 'pubspec.yaml' file & 'Pub get' the file.
 - Step 5️⃣: Run the Project 🥳
